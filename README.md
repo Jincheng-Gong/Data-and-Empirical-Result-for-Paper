@@ -1,6 +1,6 @@
 # Data-and-Empirical-Result-for-Paper
 
-This  repository include data and empirical result for my paper.
+This repository includes data and empirical result used in my paper.
 
 I try to divide them into three parts.
 
